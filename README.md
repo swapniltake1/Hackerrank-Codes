@@ -1,4 +1,7 @@
-#**Hackerrank SQL (Basic) Skills Certification Test Solutions**
+@settings {
+  font-size: 100;
+}
+**Hackerrank SQL (Basic) Skills Certification Test Solutions**
 
 
 I have taken HackerRank test on 9th Oct 2022. Certificate can be viewed here
