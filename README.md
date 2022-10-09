@@ -1,6 +1,4 @@
-@settings {
-  font-size: 100;
-}
+
 **Hackerrank SQL (Basic) Skills Certification Test Solutions**
 
 
