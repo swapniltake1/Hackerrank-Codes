@@ -1,4 +1,4 @@
-**Hackerrank SQL (Basic) Skills Certification Test Solutions**
+#**Hackerrank SQL (Basic) Skills Certification Test Solutions**
 
 
 I have taken HackerRank test on 9th Oct 2022. Certificate can be viewed here
@@ -10,10 +10,16 @@ I have taken HackerRank test on 9th Oct 2022. Certificate can be viewed here
 2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
 
 Programs / Questions
-Basic 
+
+Basic
+
 Student Analysis
+
 Merit Rewards
 
+
 Intermediate  
+
 Product sale per city
+
 Invoice per country
